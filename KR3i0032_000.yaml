@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3i0032/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 史氏菊譜
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:18:16.726858'
+  source:
+    repository: kanripo
+    path: KR3i0032/KR3i0032_000.txt
+hash: sha256:f86dfd7c231c418861f1f8aabd2bfbe7fa36256dd6853a39e70b1ce6e5f8b257
